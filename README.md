@@ -5,9 +5,6 @@
 
 <img src= "https://skillicons.dev/icons?i=html,css,java,python">
 
-<h2>Système d'exploitation que j'apprends/que je maitrises</h2>
-
-<img src= "https://skillicons.dev/icons?i=linux,windows">
 
 <h2>IDE que j'utilises</h2>
 
