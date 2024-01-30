@@ -3,7 +3,7 @@
 
 <h2>Langages que je maitrises</h2>
 
-<img src= "https://skillicons.dev/icons?i=html,css,java,,python,linux,windows">
+<img src= "https://skillicons.dev/icons?i=html,css,java,python,linux,windows">
 
 <h2>Communication</h2>
 
