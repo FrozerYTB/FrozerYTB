@@ -1,9 +1,9 @@
 <h1> Bienvenue sur mon profil 👋</h1>
 
 
-<h2>Langages utilisés</h2>
+<h2>Langages que je maitrises</h2>
 
-<img src= "https://skillicons.dev/icons?i=html,css,java,javascript,mysql">
+<img src= "https://skillicons.dev/icons?i=html,css,java,,python,ubuntu,windows">
 
 <h2>Communication</h2>
 
