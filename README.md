@@ -1,9 +1,13 @@
 <h1> Bienvenue sur mon profil 👋</h1>
 
 
-<h2>Langages que je maitrises</h2>
+<h2>Langages que j'apprends/que je maitrises</h2>
 
-<img src= "https://skillicons.dev/icons?i=html,css,java,python,linux,windows">
+<img src= "https://skillicons.dev/icons?i=html,css,java,python">
+
+<h2>Système d'exploitation que j'apprends/que je maitrises</h2>
+
+<img src= "https://skillicons.dev/icons?i=linux,windows">
 
 <h2>Communication</h2>
 
