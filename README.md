@@ -6,11 +6,11 @@
 <img src= "https://skillicons.dev/icons?i=html,css,java,python">
 
 
-<h2>IDE que j'utilises</h2>
+<h2>IDE que j'utilise</h2>
 
 <img src= "https://skillicons.dev/icons?i=idea,vscode,eclipse">
 
-<h2>Résaux Sociaux/Moyens de communication</h2>
+<h2>Résaux Sociaux/Moyens de communications</h2>
 
 |                                                                                                                                 |   Utilisateur   |
 :--------------------------------------------------------------------------------------------------------------------------------:|:----------:|
