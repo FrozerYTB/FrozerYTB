@@ -16,3 +16,5 @@
 :--------------------------------------------------------------------------------------------------------------------------------:|:----------:|
 |<a href="https://discord.com/app" target="_blank"> <img src="https://skillicons.dev/icons?i=discord" alt="Logo discord.com"> </a>| `frozerytb` |
 |<a href="https://www.instagram.com/frozerytb/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" alt="Lien vers mon compte instagram"> </a>| `frozerytb` |
+|<a href="https://mail.google.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" alt="Lien vers mon compte gmail"> </a>| `frozerytb3@gmail.com` |
+
