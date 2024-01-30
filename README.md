@@ -10,8 +10,9 @@
 
 <img src= "https://skillicons.dev/icons?i=idea,vscode,eclipse">
 
-<h2>Communication</h2>
+<h2>Résaux Sociaux/Moyens de communication</h2>
 
 |                                                                                                                                 |   Utilisateur   |
 :--------------------------------------------------------------------------------------------------------------------------------:|:----------:|
 |<a href="https://discord.com/app" target="_blank"> <img src="https://skillicons.dev/icons?i=discord" alt="Logo discord.com"> </a>| `frozerytb` |
+|<a href="https://www.instagram.com/frozerytb/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" alt="Lien vers mon compte instagram"> </a>| `frozerytb` |
