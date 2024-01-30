@@ -1,7 +1,7 @@
 <h1> Bienvenue sur mon profil 👋</h1>
 
 
-<h2>Langages que j'apprends/que je maitrises</h2>
+<h2>Languages que j'apprends/que je maitrises</h2>
 
 <img src= "https://skillicons.dev/icons?i=html,css,java,python">
 
