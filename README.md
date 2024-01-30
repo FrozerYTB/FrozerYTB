@@ -9,6 +9,10 @@
 
 <img src= "https://skillicons.dev/icons?i=linux,windows">
 
+<h2>IDE que j'utilises</h2>
+
+<img src= "https://skillicons.dev/icons?i=intelijidea,vsc,eclipse">
+
 <h2>Communication</h2>
 
 |                                                                                                                                 |   Utilisateur   |
