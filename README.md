@@ -11,7 +11,7 @@
 
 <h2>IDE que j'utilises</h2>
 
-<img src= "https://skillicons.dev/icons?i=intellijidea,visualstudiocode,eclipse">
+<img src= "https://skillicons.dev/icons?i=idea,vscode,eclipse">
 
 <h2>Communication</h2>
 
